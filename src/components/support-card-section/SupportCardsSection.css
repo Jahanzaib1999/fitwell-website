@@ -1,0 +1,45 @@
+
+.support-cards-section{
+    padding: 20px 50px;
+    margin: 100px auto;
+}
+
+.cards-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+
+.dark-grey-card{
+    display: flex;
+    width: 400px;
+    height: 100%;
+    padding: 32px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    border-radius: 8px;
+    background-color: #292929;
+    margin: 10px;
+    border: 1px solid #ff3a20;
+}
+
+
+.vertical-container h2{
+    font-size: 26px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.link-colored{
+    color: #ff3a20;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 200%;
+
+    &:hover{
+        filter: grayscale(0.25);
+    }
+}

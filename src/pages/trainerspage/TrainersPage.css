@@ -1,0 +1,22 @@
+.trainers-title{
+    font-size: 48px;
+    line-height: 115%;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    color: #fff;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.trainers-subtitle{
+    color: #da2911;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+.trainers-msg{
+    color: #757575;
+    font-size: 24px;
+    text-align: center;
+}

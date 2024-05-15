@@ -1,0 +1,25 @@
+
+
+.classes-section {
+  padding: 20px 40px;
+}
+
+.classes-section h2 {
+  color: #fff;
+  font-size: 50px;
+}
+
+.classes-section p {
+  color: #fff;
+  font-size: 20px;
+}
+
+.classes-grid {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  margin: 40px 0;
+}

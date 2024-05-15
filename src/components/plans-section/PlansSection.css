@@ -1,0 +1,23 @@
+.plans-section{
+    padding: 20px 40px;
+}
+
+.plans-section h2{
+    color: #fff;
+    font-size: 50px;
+}
+
+.plans-section p{
+    color: #fff;
+    font-size: 20px;
+}
+
+.plan-cards-wrapper{
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
